@@ -1,4 +1,4 @@
-import Pilha from "./Pilha";
+import Pilha from "../pilha.js";
 
 export default function inverter(palavra){
     let pilha = new Pilha();
